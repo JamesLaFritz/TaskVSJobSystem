@@ -1,0 +1,221 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/James/Documents/Unity/GitHub/TaskVSJobSytem/Documentation~",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../CHANGELOG.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/CHANGELOG.html",
+          "hash": "Mf/aJp0EJVxYmkisUoCuC+HG7ps5vMPpQY+XSoOi6iM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../LICENSE.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/LICENSE.html",
+          "hash": "vLVQKZSlgsMsvZBHXV+Kpn1JyiInFq5NamUU2AtGR1o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../Third Party Notices.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/Third Party Notices.html",
+          "hash": "co/jWm7Xq+INZdoqWJ9DYBhpXxkKTm+FMRihAnXj1lE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Images/InstallPackage.gif",
+      "output": {
+        "resource": {
+          "relative_path": "Images/InstallPackage.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Images/Logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "Images/Logo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Images/OpenPackageManager.gif",
+      "output": {
+        "resource": {
+          "relative_path": "Images/OpenPackageManager.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Images/ScreenShot.png",
+      "output": {
+        "resource": {
+          "relative_path": "Images/ScreenShot.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Images/repository-open-graph-template.png",
+      "output": {
+        "resource": {
+          "relative_path": "Images/repository-open-graph-template.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TaskVSJibSystem.EmptyScript.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TaskVSJibSystem.EmptyScript.html",
+          "hash": "siWreElbgNHk3J2zaoUrpeb8T+1F0AHWkF2+ZzIRXYs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TaskVSJibSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TaskVSJibSystem.html",
+          "hash": "8A2xxj0Fy5JUxJ5y/uxn6zf6OkMc7ycukegfRGsHBfQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "WN1VeYLaYSi+P9mFUYQ1awtDym/zFmz7zjI17RayeQs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "WUTmY1kJV0Sq0cGF2Nd3oieJ7gfJkFV0jv8MBDtHjWk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "12lvbkn1Adb2bPQmHkPjrLLr00bL/heB6jNyRyU3hHg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 4,
+          "skipped_file_count": 4
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 2,
+          "skipped_file_count": 2
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

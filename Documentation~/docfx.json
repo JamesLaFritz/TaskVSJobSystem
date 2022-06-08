@@ -3,12 +3,13 @@
     {
       "src": [
         {              
-          "src":"../",
+          "src":"../Assets/TaskVSJobSystem/Scripts/",
           "files": ["**.cs"],
           "exclude": [
-            "docs/**"
+            "docs/**",
             "**/bin/**",
-            "**/obj/**"
+            "**/obj/**",
+			"Settings/**"
           ]
         }
       ],
@@ -69,7 +70,7 @@
       "templates/unity"
     ],
     "globalMetadata": {
-      "_appTitle": "[package-name] Documentation",
+      "_appTitle": "Task VS Job System Documentation",
       "_enableSearch": true
     },
     "postProcessors": ["ExtractSearchIndex"],
