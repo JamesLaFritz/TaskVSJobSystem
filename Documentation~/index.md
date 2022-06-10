@@ -48,7 +48,7 @@
 
 <!-- PROJECT LOGO -->
 <p align="center">
-  <a href="https://github.com/JamesLaFritz/2021DevEnviromentTemplate">
+  <a href="https://github.com/JamesLaFritz/TaskVSJobSystem">
     <img src="Images/Logo.png" alt="Logo" width="256"/>
   </a>
 </p>
@@ -79,7 +79,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot](Images/ScreenShot.png)
+![Product Name Screen Shot](Images/ScreenShot.gif)
 
 [Documentation](https://jameslafritz.github.io/TaskVSJobSystem)
 

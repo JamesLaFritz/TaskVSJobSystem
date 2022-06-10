@@ -8,7 +8,7 @@ Component Name: "enemyRed1.png"
 
 License Type: "License (CC0)"
 
-Space Shooter (Redux, plus fonts and sounds) by [Kenney Vleugels](www.kenney.nl)
+Space Shooter (Redux, plus fonts and sounds) by [Kenney Vleugels](https://www.kenney.nl)
 
 You may use these graphics in personal and commercial projects.
 Credit (Kenney or www.kenney.nl) would be nice but is not mandatory.

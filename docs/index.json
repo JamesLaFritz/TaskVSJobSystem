@@ -1,18 +1,8 @@
 {
-  "api/TaskVSJibSystem.EmptyScript.html": {
-    "href": "api/TaskVSJibSystem.EmptyScript.html",
-    "title": "Class EmptyScript | Task VS Job System Documentation",
-    "keywords": "Class EmptyScript Inheritance System.Object EmptyScript Inherited Members System.Object.ToString() System.Object.Equals(System.Object) System.Object.Equals(System.Object, System.Object) System.Object.ReferenceEquals(System.Object, System.Object) System.Object.GetHashCode() System.Object.GetType() System.Object.MemberwiseClone() Namespace : TaskVSJibSystem Assembly : cs.temp.dll.dll Syntax public class EmptyScript"
-  },
-  "api/TaskVSJibSystem.html": {
-    "href": "api/TaskVSJibSystem.html",
-    "title": "Namespace TaskVSJibSystem | Task VS Job System Documentation",
-    "keywords": "Namespace TaskVSJibSystem Classes EmptyScript"
-  },
   "articles/CHANGELOG.html": {
     "href": "articles/CHANGELOG.html",
     "title": "| Task VS Job System Documentation",
-    "keywords": ""
+    "keywords": "Hash: 7682611 Date: 2022-06-08 Message: Initial Commit Hash: ff2cfe4 Date: 2022-06-10 Message: Project Set Up Hash: 5bf0a97 Date: 2022-06-10 Message: Task, Coroutines, and Jobs added."
   },
   "articles/LICENSE.html": {
     "href": "articles/LICENSE.html",
@@ -22,7 +12,7 @@
   "articles/Third Party Notices.html": {
     "href": "articles/Third Party Notices.html",
     "title": "| Task VS Job System Documentation",
-    "keywords": "This package contains third-party software components governed by the license(s) indicated below:"
+    "keywords": "This package contains third-party software components governed by the license(s) indicated below: Component Name: \"enemyRed1.png\" License Type: \"License (CC0)\" Space Shooter (Redux, plus fonts and sounds) by Kenney Vleugels You may use these graphics in personal and commercial projects. Credit (Kenney or www.kenney.nl ) would be nice but is not mandatory. License (CC0)"
   },
   "index.html": {
     "href": "index.html",
